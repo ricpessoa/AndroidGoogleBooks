@@ -4,6 +4,6 @@
   android:id="@+id/fragment"
   android:layout_width="match_parent"
   android:layout_height="match_parent"
-  android:name="com.example.ricardopessoa.androidgooglebooks.ListBooksFragment"
+  android:name="com.example.ricardopessoa.androidgooglebooks.BookDetailFragment"
   app:layout_behavior="@string/appbar_scrolling_view_behavior"
-  tools:layout="@layout/fragment_book_list" />
+  tools:layout="@layout/fragment_book_detail" />
